@@ -7,7 +7,7 @@ nav ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: purple;
+    background-color: #dac5b0;
   }
   
 nav li {
@@ -27,7 +27,7 @@ nav li a:hover {
   }
 
 #stport {
-    background-color: #f0be8f;
+    background-color: #f0decd;
     width: 20%;
     float: left;
 }
@@ -55,6 +55,10 @@ nav li a:hover {
 
 #stinfo #content {
     font-size: 80%;
+}
+
+#stinfo #title{
+    padding: 8px;
 }
 
 #stport img {
