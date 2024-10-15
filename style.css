@@ -1,5 +1,5 @@
 body{
-
+    background-color: #eeddcd;
 }
 
 nav ul {
@@ -25,3 +25,41 @@ nav li a {
 nav li a:hover {
     background-color: #111111;
   }
+
+#stport {
+    background-color: #f0be8f;
+    width: 20%;
+    float: left;
+}
+
+#stport ul{
+    list-style-type: none;
+}
+
+#stport li{
+    padding: 5px;
+}
+
+#stinfo {
+    background-color: #928070;
+    margin-left: 20%;
+}
+
+#stinfo ul{
+    list-style-type: none;
+}
+
+#stinfo #title {
+    font-size: larger;
+}
+
+#stinfo #content {
+    font-size: 80%;
+}
+
+#stport img {
+    border-radius: 50%;
+    width: 80%;
+    height: 80%;
+    margin-left: 10%;
+}
